@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "One Step at a Time",
+  "base_artist": "IRyS",
+  "createdAt": "2025-12-18T07:29:45.301554Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One Step at a Time",
+      "artist": "IRyS",
+      "has_synced": true,
+      "path": "select/01_One_Step_at_a_Time_IRyS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One step at a time",
+      "artist": "Morfonica",
+      "has_synced": true,
+      "path": "select/02_One_step_at_a_time_Morfonica.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One step at a time",
+      "artist": "Morfonica",
+      "has_synced": false,
+      "path": "select/03_One_step_at_a_time_Morfonica.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Step at a Time",
+      "artist": "Leo Sayer",
+      "has_synced": false,
+      "path": "select/04_One_Step_at_a_Time_Leo_Sayer.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Step At A Time",
+      "artist": "Jordin Sparks",
+      "has_synced": true,
+      "path": "select/05_One_Step_At_A_Time_Jordin_Sparks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Step at a Time",
+      "artist": "The Temptations",
+      "has_synced": true,
+      "path": "select/06_One_Step_at_a_Time_The_Temptations.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One Step At A Time",
+      "artist": "Keisha White",
+      "has_synced": true,
+      "path": "select/07_One_Step_At_A_Time_Keisha_White.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One Step At A Time",
+      "artist": "Jordin",
+      "has_synced": true,
+      "path": "select/08_One_Step_At_A_Time_Jordin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One Step At A Time",
+      "artist": "Jordin Sparks",
+      "has_synced": true,
+      "path": "select/09_One_Step_At_A_Time_Jordin_Sparks.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Step at a Time",
+      "artist": "Brenda Lee",
+      "has_synced": true,
+      "path": "select/10_One_Step_at_a_Time_Brenda_Lee.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One Step At A Time",
+      "artist": "Jordin Sparks",
+      "has_synced": true,
+      "path": "select/11_One_Step_At_A_Time_Jordin_Sparks.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One Step at a Time",
+      "artist": "First Call",
+      "has_synced": false,
+      "path": "select/12_One_Step_at_a_Time_First_Call.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One Step at a Time",
+      "artist": "IRyS",
+      "has_synced": false,
+      "path": "select/pl_01_One_Step_at_a_Time_IRyS.txt"
+    }
+  ]
+}
