@@ -1,0 +1,79 @@
+# IRyS – One Step at a Time
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:11.53] Another day, I wander
+[00:13.85] Without escape, I ponder
+[00:15.98] A million questions
+[00:17.25] I don't need to find an answer for
+[00:20.59] Like, is it worth the hassle?
+[00:22.78] Or, is it worth the pain?
+[00:24.23] Look inside the mirror and say to myself
+[00:28.17] Am I enough?
+[00:30.81] Oh, am I worth it?
+[00:39.81] 
+[00:37.67] I see the way you notice
+[00:39.98] All of my fragile moments
+[00:42.21] A part of me is still uncertain I should let you in
+[00:46.67] But as it flows and passes
+[00:48.80] The time will just confirm
+[00:50.15] That when you're here with me
+[00:51.94] I can just let go
+[01:00.44] 
+[00:54.56] Now suddenly, the clouds clear out
+[00:59.07] All my worries disappear
+[01:01.07] And all the stars, they feel so near
+[01:03.34] I could almost reach out right now
+[01:20.34] 
+[01:07.58] Because of you, feel myself again
+[01:11.98] You helped me realize what was here to do
+[01:16.48] Because of you, I'm feeling real again
+[01:20.84] Now I know where I should go
+[01:22.94] You got me walking back to hope
+[01:25.09] One step at a time
+[01:34.09] 
+[01:34.56] I can't explain the feeling
+[01:36.63] A sort of, kind of healing
+[01:38.98] A different wave of love that travels
+[01:41.53] Through your precious words
+[01:43.37] At times, I circle back, but
+[01:45.60] I guess I just forget
+[01:46.98] That when I'm down and low
+[01:48.94] I could count on you
+[01:58.94] 
+[01:51.46] Now suddenly, the clouds clear out
+[01:55.76] All my worries disappear
+[01:57.81] And all the stars, they feel so near
+[02:00.30] I could almost reach out right now
+[02:17.30] 
+[02:05.53] Because of you, I feel myself again
+[02:09.93] You helped me realize what I was here to do
+[02:14.37] Because of you, I'm feeling real again
+[02:18.52] Now I know where I should go
+[02:20.64] You got me walking back to hope
+[02:22.25] A step at a time
+[02:30.25] 
+[02:41.03] What can I say but thank you
+[02:43.40] Surrounded by some angels
+[02:45.19] Honestly, it's hard for me to live without
+[02:49.80] Tomorrow's bringing something new
+[02:53.16] I know for certain, it's worth it
+[02:56.56] All thanks to you
+[03:05.06] 
+[03:08.84] Because of you, I feel myself again
+[03:13.24] You helped me realize what I was here to do
+[03:17.45] Because of you, I'm feeling real again
+[03:21.93] Now I know where I should go
+[03:23.98] You got me walking back to hope
+[03:39.48] 
+[03:26.39] Because of you, I feel myself again
+[03:30.70] You helped me realize what I was here to do
+[03:34.94] Because of you, I'm feeling real again
+[03:39.31] Now I know where I should go
+[03:41.57] You got me walking back to hope
+[03:43.86] One step at a time
+[03:52.86] 
+[03:51.98] A little closer
+[03:55.58] Every step gets closer
+```
